@@ -1,0 +1,8 @@
+# No subir contraseñas de MySQL
+/app/config.php
+
+# Archivos temporales
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
